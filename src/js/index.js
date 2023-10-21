@@ -175,7 +175,7 @@
             <div class="testimonial">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur aliquam eum eligendi animi aut odit aperiam magnam quisquam natus, beatae a voluptatibus odio eveniet impedit labore optio unde quis? Magni!</p>
 
-                <p class="autor">- Juan De la torre</p>
+                <p class="autor">- Raymond M. Quintero Aparicio</p>
             </div>
         </section>
 
